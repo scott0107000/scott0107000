@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![1](https://github.com/scott0107000/scott0107000/blob/f98f24df0bc3c22351d1ab9fc35572a3e67e4293/1.png)
+[![1](https://github.com/scott0107000/scott0107000/blob/f98f24df0bc3c22351d1ab9fc35572a3e67e4293/1.png)]( )
 
 [![2](https://github.com/scott0107000/scott0107000/blob/4768ad67449c558b1395e8161e8bc61b6d5de9d5/2.png)](https://github.com/scott0107000/BoutiqueBitmap7x7)
 
