@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  
 
 <!--
 **scott0107000/scott0107000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![1](https://github.com/scott0107000/scott0107000/blob/f98f24df0bc3c22351d1ab9fc35572a3e67e4293/1.png)
+
+[![2](https://github.com/scott0107000/scott0107000/blob/4768ad67449c558b1395e8161e8bc61b6d5de9d5/2.png)](https://github.com/scott0107000/BoutiqueBitmap7x7)
+
+[![3](https://github.com/scott0107000/scott0107000/blob/4768ad67449c558b1395e8161e8bc61b6d5de9d5/3.png)](https://github.com/scott0107000/BoutiqueBitmap9x9)
+
+[![4](https://github.com/scott0107000/scott0107000/blob/aebc630dabfa2f99848e868d66c0cb74375557ae/4.png)](https://fontspeech.blogspot.com/)
