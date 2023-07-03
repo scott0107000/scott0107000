@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 [![3](https://github.com/scott0107000/scott0107000/blob/4768ad67449c558b1395e8161e8bc61b6d5de9d5/3.png)](https://github.com/scott0107000/BoutiqueBitmap9x9)
 
 [![4](https://github.com/scott0107000/scott0107000/blob/aebc630dabfa2f99848e868d66c0cb74375557ae/4.png)](https://fontspeech.blogspot.com/)
+
+My Github Page View:![:精品點陣體](https://count.getloli.com/get/@:精品點陣體)Since 2023/7/4
