@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![1](https://github.com/scott0107000/scott0107000/blob/f98f24df0bc3c22351d1ab9fc35572a3e67e4293/1.png)]( )
+[![1](./1.png)]( )
 
-[![2](https://github.com/scott0107000/scott0107000/blob/4768ad67449c558b1395e8161e8bc61b6d5de9d5/2.png)](https://github.com/scott0107000/BoutiqueBitmap7x7)
+[![2](./2.png)](https://github.com/scott0107000/BoutiqueBitmap7x7)
 
-[![3](https://github.com/scott0107000/scott0107000/blob/4768ad67449c558b1395e8161e8bc61b6d5de9d5/3.png)](https://github.com/scott0107000/BoutiqueBitmap9x9)
+[![3](./3.png)](https://github.com/scott0107000/BoutiqueBitmap9x9)
 
-[![4](https://github.com/scott0107000/scott0107000/blob/aebc630dabfa2f99848e868d66c0cb74375557ae/4.png)](https://fontspeech.blogspot.com/)
+[![4](./4.png)](https://fontspeech.blogspot.com/)
 
-[![5](https://github.com/scott0107000/scott0107000/blob/43b3dec282f25bace69defe543f59894cf75726b/tomatogithub.png)](https://github.com/scott0107000/Tomato-Emoji)
+[![5](./tomatogithub.png)](https://github.com/scott0107000/Tomato-Emoji)
 
 My Github Page View:![:精品點陣體](https://count.getloli.com/get/@:精品點陣體)Since 2023/7/4
