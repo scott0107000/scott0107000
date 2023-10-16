@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![5](./tomatogithub.png)](https://github.com/scott0107000/Tomato-Emoji)
+[![5](https://github.com/scott0107000/scott0107000/blob/98ac8aeb35b0db11f89db4fe4f3942ae0d7cd25e/tomatogithub.png)](https://github.com/scott0107000/Tomato-Emoji)
 
 ---------------
 
