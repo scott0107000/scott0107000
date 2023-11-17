@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 
 
 My Github Page View:![:精品點陣體](https://count.getloli.com/get/@:精品點陣體)Since 2023/7/4
+
+[Contact me on Facebook](https://www.facebook.com/KickYouInTheNuts/)
