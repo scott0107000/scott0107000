@@ -3,8 +3,8 @@
 /*    src: url("./Fancy-HeroGothic.eot"); /* IE9 */
 /*    src: url("./Fancy-HeroGothic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
     
-    url("./Fancy-HeroGothic.woff") format("woff"), /* chrome、firefox */
-    url("./Fancy-HeroGothic.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    src: url("./Fancy-HeroGothic.woff") format("woff"), /* chrome、firefox */
+    src: url("./Fancy-HeroGothic.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
     
 /*    url("./Fancy-HeroGothic.svg#Fancy-HeroGothic") format("svg"); /* iOS 4.1- */
     font-style: normal;
