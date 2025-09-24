@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Fancy-DZZTLSDAG1";
+    
+    src: url("Fancy-DZZTLSDAG1.woff") format("woff"), /* chrome、firefox */
+    src: url("Fancy-DZZTLSDAG1.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+
+    font-style: normal;
+    font-weight: normal;
+}
+
+
