@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "cswweb";
+    
+    src: url("csw.woff2") format("woff2"), /* chrome、firefox */
+    
+    font-style: normal;
+    font-weight: normal;
+}
