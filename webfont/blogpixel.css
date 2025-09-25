@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "blogpixel";
+    
+    src: url("blogpixel.woff") format("woff"), /* chrome、firefox */
+    src: url("blogpixel.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+
+    font-style: normal;
+    font-weight: normal;
+}
