@@ -16,4 +16,15 @@
 
     font-style: normal;
     font-weight: bold;
+
+}
+
+@font-face {
+    font-family: "cswlogopixel";
+    
+    src: url("cswlogopixel.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+
+    font-style: normal;
+    font-weight: bold;
+
 }
