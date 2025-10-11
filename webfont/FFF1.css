@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "FFF1";
+    src: url("FFF1.woff") format("woff"), /* chrome、firefox */
+    src: url("FFF1.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
