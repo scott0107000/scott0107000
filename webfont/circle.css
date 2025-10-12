@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "circlenum";
+    src: url("circlenumR.woff") format("woff"), /* chrome、firefox */
+    src: url("circlenumR.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "circlenum";
+    src: url("circlenumB.woff") format("woff"), /* chrome、firefox */
+    src: url("circlenumB.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    font-style: normal;
+    font-weight: bold;
+}
