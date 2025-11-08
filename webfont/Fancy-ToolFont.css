@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Fancy-ToolFont";
+    
+    src: url("Fancy-ToolFont.woff2") format("woff2"), /* chrome、firefox */
+    
+    font-style: normal;
+    font-weight: normal;
+}
