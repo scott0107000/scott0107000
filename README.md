@@ -15,19 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![5](https://github.com/scott0107000/scott0107000/blob/98ac8aeb35b0db11f89db4fe4f3942ae0d7cd25e/tomatogithub.png)](https://github.com/scott0107000/Tomato-Emoji)
+[![托碼頭Tomato-Pixel點陣TTF表情包](https://github.com/scott0107000/scott0107000/blob/98ac8aeb35b0db11f89db4fe4f3942ae0d7cd25e/tomatogithub.png)](https://github.com/scott0107000/Tomato-Emoji)
 
 ---------------
 
 [![1](./1.png)]( )
 
-[![2](./2.png)](https://github.com/scott0107000/BoutiqueBitmap7x7)
+[![精品點陣體7x7](./2.png)](https://github.com/scott0107000/BoutiqueBitmap7x7)
 
-[![3](./3.png)](https://github.com/scott0107000/BoutiqueBitmap9x9)
+[![精品點陣體9x9](./3.png)](https://github.com/scott0107000/BoutiqueBitmap9x9)
 
-[![5](./5.png)](https://github.com/scott0107000/FashionBitmap16)
+[![流行點陣體16](./5.png)](https://github.com/scott0107000/FashionBitmap16)
 
-[![4](./4.png)](https://fontspeech.blogspot.com/)
+[![Luke036 Blog](./6.png)](https://luke036.blogspot.com/)
+
+[![字言字型 Blog](./4.png)](https://fontspeech.blogspot.com/)
 
 
 
