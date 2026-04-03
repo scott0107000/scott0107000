@@ -1,4 +1,12 @@
 /* ASH Style Sheet (http://ash.jp/) */
+@font-face {
+    font-family: 'KCSong24F';
+    src: url('KCSong24F.woff2') format('woff2'),
+        url('KCSong24F.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 /* Link color */
 a:link {
   color: #006f5f;
@@ -61,6 +69,7 @@ h4, h5 {
 p, pre {
   line-height: 120%;
   font-size: 16pt;
+  font-family: 'KCSong24F';
 }
 pre {
   margin-top: 0.2em; margin-bottom: 0.2em;
