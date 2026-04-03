@@ -1,0 +1,175 @@
+/* ASH Style Sheet (http://ash.jp/) */
+/* Link color */
+a:link {
+  color: #006f5f;
+}
+a:visited {
+  color: #6f2f7f;
+}
+a:active {
+  color: #7f006f;
+}
+a:hover {
+  color: #ffffff;
+  background:#3f3faf;
+}
+/* Default tag color */
+body {
+  color: #3f0f0f;
+  background: #fefeff;
+  margin-left: 2em; margin-right: 2em;
+}
+h1 {
+  color: #ffffff;
+  background-color: #393cad;
+  border-color: #000094;
+  width: 100%;
+  border-style: solid;
+  border-top-width: 0.1em;
+  border-bottom-width: 0.1em;
+  border-right: none;
+  border-left: none;
+  padding: 0.1em;
+  font-weight: bold;
+  font-size: 120%;
+  text-align: left;
+}
+h2 {
+  color: #00007f;
+  background-color: #e7e7ff;
+  border-color: #000094;
+  width: 100%;
+  border-style: solid;
+  border-left: none;
+  border-right: none;
+  border-top-width: 0.1em;
+  border-bottom-width: 0.1em;
+  padding: 0.1em;
+  font-weight: bold;
+  font-size: 110%;
+}
+h3 {
+  color: #00007f;
+  padding: 0.2em;
+  font-size: 110%;
+}
+h4, h5 {
+  color: #000000;
+  padding: 0.2em;
+  font-size: 100%;
+}
+p, pre {
+  line-height: 120%;
+}
+pre {
+  margin-top: 0.2em; margin-bottom: 0.2em;
+}
+table {
+  margin-top: 0.2em; margin-bottom: 0.2em;
+  margin-left: 2em; margin-right: 2em;
+}
+caption {
+  color: #7f0000;
+  font-weight: bold;
+}
+th {
+  background: #e7e7ff;
+  padding-left: 0.2em; padding-right: 0.2em;
+}
+td {
+  background: #f3f7ff;
+  padding-left: 0.2em; padding-right: 0.2em;
+}
+code {
+  color: #0000df;
+}
+kbd {
+  color: #ffffbf;
+  font-weight: bold;
+}
+dt {
+  margin-top: 0.2em;
+}
+li {
+  margin-top: 0.2em;
+/* margin-top: 0.5em; margin-bottom: 0.5em; */
+}
+applet {
+  margin-top: 0.2em; margin-bottom: 0.2em;
+  margin-left: 2em; margin-right: 2em;
+}
+/* Original Class color */
+.indent {
+  margin-left: 2em;
+}
+.console {
+  color: #ffffff;
+  background: #002f4f;
+  line-height: 100%;
+}
+.source {
+  background: #eff7ff;
+  line-height: 100%;
+}
+.paper {
+  background: #ffffef;
+  line-height: 100%;
+}
+.wintitle {
+  color: #ffffff;
+  background: #00007f;
+}
+.img {
+  margin-left: 2em;
+}
+.comment {
+  font-size: 80%;
+  margin-left: 2em;
+}
+.head {
+  background-color: #f3f7ff;
+  font-size: 90%;
+  text-align: center;
+  border-style: solid;
+  border-top-width: 0.1em;
+  border-right: none;
+  border-left: none;
+  border-bottom-width: 0.1em;
+}
+.crnt {
+  color: #ffffff;
+  background-color: #bfbfff;
+  font-size: 100%;
+}
+.link {
+  text-align: center;
+}
+.sig {
+  text-align: left;
+}
+.new {
+  color: red;
+}
+.update {
+  color: orange;
+}
+.caution {
+  color: #cc1133;
+}
+@import url("/web/20161212145710cs_/http://ash.jp/code/style_ie.css");
+
+/*
+     FILE ARCHIVED ON 14:57:10 Dec 12, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:33:40 Apr 03, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 45.075
+  load_resource: 206.875
+  PetaboxLoader3.resolve: 83.538
+  PetaboxLoader3.datanode: 7.183
+*/
