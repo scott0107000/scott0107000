@@ -1,4 +1,5 @@
 /* ASH Style Sheet (http://ash.jp/) */
+@import url("https://fontsapi.zeoseven.com/379/main/result.css");
 @font-face {
     font-family: 'KCSong24F';
     src: url('https://scott0107000.github.io/scott0107000/B5Table/KCSong24F.woff2') format('woff2'),
@@ -69,7 +70,7 @@ h4, h5 {
 p, pre {
   line-height: 120%;
   font-size: 12pt;
-  font-family: 'KCSong24F';
+  font-family: 'TW-Sung', 'KCSong24F';
 }
 pre {
   margin-top: 0.2em; margin-bottom: 0.2em;
