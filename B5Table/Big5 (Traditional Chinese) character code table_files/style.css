@@ -1,14 +1,21 @@
 /* ASH Style Sheet (http://ash.jp/) */
 @font-face {
-    font-family: 'BBBB';
+    font-family: 'CCCC';
     src: url('https://scott0107000.github.io/scott0107000/B5Table/B.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
-    font-family: 'AAAA';
+    font-family: 'BBBB';
     src: url('https://scott0107000.github.io/scott0107000/B5Table/A.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AAAA';
+    src: url('https://scott0107000.github.io/scott0107000/B5Table/AA.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
