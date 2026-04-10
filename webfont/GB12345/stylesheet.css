@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Fancy-FreeFont1-R';
-    src: url('Fancy-FreeFont1-R.woff2') format('woff2'),
-        url('Fancy-FreeFont1-R.woff') format('woff');
+    src: url('./Fancy-FreeFont1-R.woff2') format('woff2'),
+        url('./Fancy-FreeFont1-R.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
